@@ -20,7 +20,7 @@ source bin/activate
 Clone the repository on your local environment <br>
 
 ```bash
-git clone https://github.com/aasis21/4th_umpire.git `
+git clone https://github.com/venkat1506/4th_umpire.git `
 ```
 
 Navigate to the folder <br>
