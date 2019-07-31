@@ -5,8 +5,7 @@ prediction of a match winner before toss, prediction of expected score of 1st in
 and prediction of winner, match concluding over during the 2nd inning of the match.
 
 
-## Webpage
-Live project is available [here](https://fourth-umpire.herokuapp.com).
+
 
 
 ## Local Setup
